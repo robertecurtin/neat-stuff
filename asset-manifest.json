@@ -1,23 +1,13 @@
 {
   "files": {
-    "main.css": "/neat-stuff/static/css/main.3f9ef032.chunk.css",
-    "main.js": "/neat-stuff/static/js/main.bf8bf8cf.chunk.js",
-    "main.js.map": "/neat-stuff/static/js/main.bf8bf8cf.chunk.js.map",
-    "runtime-main.js": "/neat-stuff/static/js/runtime-main.23331956.js",
-    "runtime-main.js.map": "/neat-stuff/static/js/runtime-main.23331956.js.map",
-    "static/css/2.e5750c50.chunk.css": "/neat-stuff/static/css/2.e5750c50.chunk.css",
-    "static/js/2.90e5f433.chunk.js": "/neat-stuff/static/js/2.90e5f433.chunk.js",
-    "static/js/2.90e5f433.chunk.js.map": "/neat-stuff/static/js/2.90e5f433.chunk.js.map",
+    "main.css": "/neat-stuff/static/css/main.6d44ecc0.css",
+    "main.js": "/neat-stuff/static/js/main.b1303458.js",
     "index.html": "/neat-stuff/index.html",
-    "static/css/2.e5750c50.chunk.css.map": "/neat-stuff/static/css/2.e5750c50.chunk.css.map",
-    "static/css/main.3f9ef032.chunk.css.map": "/neat-stuff/static/css/main.3f9ef032.chunk.css.map",
-    "static/js/2.90e5f433.chunk.js.LICENSE.txt": "/neat-stuff/static/js/2.90e5f433.chunk.js.LICENSE.txt"
+    "main.6d44ecc0.css.map": "/neat-stuff/static/css/main.6d44ecc0.css.map",
+    "main.b1303458.js.map": "/neat-stuff/static/js/main.b1303458.js.map"
   },
   "entrypoints": [
-    "static/js/runtime-main.23331956.js",
-    "static/css/2.e5750c50.chunk.css",
-    "static/js/2.90e5f433.chunk.js",
-    "static/css/main.3f9ef032.chunk.css",
-    "static/js/main.bf8bf8cf.chunk.js"
+    "static/css/main.6d44ecc0.css",
+    "static/js/main.b1303458.js"
   ]
 }
