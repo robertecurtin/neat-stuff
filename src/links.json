@@ -45,6 +45,10 @@
     "category": "Arcane code stuff",
     "links": [
       {
+        "title": "When optimizing code, never guess, always measure",
+        "url": "https://www.solipsys.co.uk/new/WhenOptimisingCodeMeasure.html"
+      },
+      {
         "title": "Confusing git terminology explained",
         "url": "https://jvns.ca/blog/2023/11/01/confusing-git-terminology/"
       },
