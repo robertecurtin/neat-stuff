@@ -83,6 +83,10 @@
       {
         "title": "Building Testable Embedded Systems (course under development)",
         "url": "https://embeddedartistry.com/course/building-testable-embedded-systems/"
+      },
+      {
+        "title": "Compiler Explorer",
+        "url": "https://godbolt.org"
       }
     ]
   },
