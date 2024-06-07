@@ -21,7 +21,11 @@
       {
         "title": "Code smells",
         "url": "https://refactoring.guru/refactoring/smells"
-      }
+      }, 
+      {
+        "title": "Top 4 Symptoms of Bad Code", 
+        "url": "https://www.excella.com/insights/top-4-symptoms-of-bad-code" 
+      }, 
     ]
   },
   {
