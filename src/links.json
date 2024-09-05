@@ -3,7 +3,7 @@
     "category": "Fun code stuff",
     "links": [
       {
-        "title": "How To Write Unmaintainable Code",
+        "title": "How To write unmaintainable code",
         "url": "https://cs.fit.edu/~kgallagher/Schtick/How%20To%20Write%20Unmaintainable%20Code.html"
       },
       {
@@ -15,7 +15,7 @@
         "url": "https://gist.github.com/rxaviers/7360908"
       },
       {
-        "title": "How to Make Your Code Reviewer Fall in Love with You",
+        "title": "How to make your code reviewer fall in love with you",
         "url": "https://mtlynch.io/code-review-love/"
       },
       {
@@ -23,13 +23,17 @@
         "url": "https://refactoring.guru/refactoring/smells"
       }, 
       {
-        "title": "Top 4 Symptoms of Bad Code", 
+        "title": "Top 4 symptoms of bad code", 
         "url": "https://www.excella.com/insights/top-4-symptoms-of-bad-code" 
       },
       {
         "title": "The three virtues of programming", 
         "url": "https://thethreevirtues.com/" 
-      }
+      },
+      {
+        "title": "Habits of great software engineers",
+        "url": "https://vadimkravcenko.com/shorts/habits-of-great-software-engineers"
+      },
     ]
   },
   {
